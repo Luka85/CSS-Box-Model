@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 40px;
+}
+.box-one {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  border: 30px solid rgb(201, 81, 212);
+  padding: 10px;
+  margin: 100px;
+  box-sizing: border-box;
+}
+.box-two {
+  background-color: rgb(79, 79, 209);
+  border: 0 solid rgb(0, 30, 128);
+  width: 100px;
+  height: 100px;
+  border: 30px solid rgb(201, 81, 212);
+  padding: 10px;
+  margin: 60px;
+}
